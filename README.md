@@ -1,4 +1,4 @@
-# Anonymous Chat - Building an Virtual Chat Application on My Own
+# Anonymous Chat - Building a Virtual Chat Application on My Own
 
 Anonymous Chat is a real-time messaging application built using HTML, CSS, JavaScript, and Firebase. It allows users to send and receive messages instantly, leveraging Firebase's cloud services for real-time data syncing and storage.
 
