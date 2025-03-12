@@ -60,7 +60,7 @@ To build and run the Anonymous Chat App, you will need:
 
 ## Future Deployment (Optional)
 
-If you want to deploy the app online using Firebase, follow these steps:
+If you want to deploy the app online using Firebase, follow these steps (Only if there is HTML implemented):
 
 1. Install Firebase CLI:
     ```sh
