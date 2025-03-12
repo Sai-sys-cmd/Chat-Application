@@ -29,7 +29,7 @@ The Anonymous Chat app was built using the following tools and technologies:
 
 ## Future Plans
 
-In the future, I plan to publish the chat app to the internet using either GitHub Pages or Firebase. However, before doing that, I want to implement additional features, such as the ability to reply to messages, add reactions, and improve the overall user experience. My goal is to make the app cooler, more interactive, and better for users.
+In the future, I plan to publish my chat app to the internet using either GitHub Pages or Firebase. However, I haven't published it yet because I need HTML to do so. Right now, I can only run the app locally since I only have JavaScript and CSS. Additionally, before making it live, I want to implement additional features, such as the ability to reply to messages, add reactions, and improve the overall user experience. My goal is to make the app cooler, more interactive, and better for users.
 
 ## Prerequisites
 
