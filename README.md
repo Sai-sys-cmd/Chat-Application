@@ -1,6 +1,6 @@
 # Anonymous Chat - Building a Local Chat Application on My Own
 
-Anonymous Chat is a real-time messaging application built using HTML, CSS, JavaScript, and Firebase. It allows users to send and receive messages instantly, leveraging Firebase's cloud services for real-time data syncing and storage.
+Anonymous Chat is a real-time messaging application built using HTML, CSS, JavaScript, and Firebase. It allows users to send and receive messages instantly, leveraging Firebase's cloud services for real-time data syncing and storage. This project helped me understand more about how frontend works cohesively with backend and also further extended my knowlege on web servers. It also taught me about security measures and how to defend against hackers.
 
 ## Preview
 
@@ -17,9 +17,9 @@ Anonymous Chat is a real-time messaging application built using HTML, CSS, JavaS
 ## How I Built It
 
 The Anonymous Chat app was built using the following tools and technologies:
-- **Firebase**: Used for real-time data synchronization and user authentication.
+- **Firebase**: Used for real-time data synchronization, user authentication, and the framework for the whole web server.
 - **HTML, CSS, JavaScript**: Used to create the front-end interface, allowing users to interact with the chat.
-- **Firebase Authentication**: Ensures that users can chat anonymously without creating an account.
+- **Firebase Authentication**: Ensures that users can chat anonymously as long as they create an account for security measures.
 - **Firebase Realtime Database**: Handles storing and retrieving messages in real-time.
 - **Key files used in the build process:**
   - `index.html` (Main structure and layout of the chat app)
